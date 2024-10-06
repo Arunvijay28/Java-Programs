@@ -1,0 +1,204 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Bug3524",
+            "request": "launch",
+            "mainClass": "Bug3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "FloydWarshall",
+            "request": "launch",
+            "mainClass": "FloydWarshall",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "NthDigit",
+            "request": "launch",
+            "mainClass": "NthDigit",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Qicktest2",
+            "request": "launch",
+            "mainClass": "Qicktest2",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Quicktest1",
+            "request": "launch",
+            "mainClass": "Quicktest1",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "RotatedSortedArraySearch",
+            "request": "launch",
+            "mainClass": "RotatedSortedArraySearch",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Temp3524",
+            "request": "launch",
+            "mainClass": "Temp3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "Verbalize3524",
+            "request": "launch",
+            "mainClass": "Verbalize3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "dateTime3524",
+            "request": "launch",
+            "mainClass": "dateTime3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "digitalWatch3524",
+            "request": "launch",
+            "mainClass": "digitalWatch3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "elementOccurance3524",
+            "request": "launch",
+            "mainClass": "elementOccurance3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "finalVelocity3524",
+            "request": "launch",
+            "mainClass": "finalVelocity3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "gausselimination",
+            "request": "launch",
+            "mainClass": "gausselimination",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "headsTails3524",
+            "request": "launch",
+            "mainClass": "headsTails3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld3524",
+            "request": "launch",
+            "mainClass": "helloWorld3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "monthDays3524",
+            "request": "launch",
+            "mainClass": "monthDays3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "oddOReven",
+            "request": "launch",
+            "mainClass": "oddOReven",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "randomSort3524",
+            "request": "launch",
+            "mainClass": "randomSort3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "sort3524",
+            "request": "launch",
+            "mainClass": "sort3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "studentGrade3524",
+            "request": "launch",
+            "mainClass": "studentGrade3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "sumArrays3524",
+            "request": "launch",
+            "mainClass": "sumArrays3524",
+            "projectName": "Java-Programs_d359f8bf"
+        },
+        {
+            "type": "java",
+            "name": "uniquenumber",
+            "request": "launch",
+            "mainClass": "uniquenumber",
+            "projectName": "Java-Programs_d359f8bf"
+        }
+    ]
+}

@@ -1,6 +1,9 @@
 
     //this is a brute force solution
-    /**
+
+import java.util.Arrays;
+
+/**
      * Definition for singly-linked list.
      * public class ListNode {
      *     int val;

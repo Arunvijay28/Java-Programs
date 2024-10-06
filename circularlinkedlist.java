@@ -105,7 +105,7 @@ class CircularLinkedList {
     }
 }
 
-public class Main {
+public class circularlinkedlist {
     public static void main(String[] args) {
         CircularLinkedList list = new CircularLinkedList();
         list.addNode(1);
