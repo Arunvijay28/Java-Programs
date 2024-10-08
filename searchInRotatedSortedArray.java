@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RotatedSortedArraySearch {
+public class searchInRotatedSortedArray {
 
     public static int search(int[] nums, int target) {
 

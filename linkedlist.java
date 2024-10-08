@@ -129,16 +129,16 @@ class LinkedList {
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
-        // Create a new linked list
-        LinkedList list = new LinkedList();
-        // Add nodes to the linked list
-        list.addNode(1);
-        list.addNode(2);
-        list.addNode(3);
-        list.addNode(4);
-        list.addNode(5);
+// public class linkedlist {
+//     public static void main(String[] args) {
+//         // Create a new linked list
+//         LinkedList list = new LinkedList();
+//         // Add nodes to the linked list
+//         list.addNode(1);
+//         list.addNode(2);
+//         list.addNode(3);
+//         list.addNode(4);
+//         list.addNode(5);
 
-        // Print the linked list
-        System
+//         // Print the linked list
+//         System

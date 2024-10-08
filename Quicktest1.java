@@ -1,6 +1,6 @@
 // Write quick sort pseudocode which chooses pivot as middle element in the array
 
-package practice5;
+
 import java.util.*;
 
 class Sort3

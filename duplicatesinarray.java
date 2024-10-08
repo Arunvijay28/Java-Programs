@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class duplicatesinarray {
     public List<Integer> findDuplicates(int[] nums) {
         ArrayList<Integer> list = new ArrayList<Integer>();
